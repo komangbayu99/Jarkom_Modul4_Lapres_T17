@@ -42,13 +42,11 @@ Catatan :
 
 - Setelah melakukan Langkah utama, Selanjutnya adalah Kita harus melakukan perhitungan Ip sebagai berikut : 
 
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787621551884992522/Pembagian_IP-CIDR.png)
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787692632590909452/1607870916560.jpg)
 
 - Langkah Selanjutnya adalah kita harus tes satu persatu apakah benar sudah saling terhubung
 
-- setelah itu Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP   yaitu subnet 19.
-
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg)
+- setelah itu Hitung IP Address yang dibutuhkan.
 
 - Subnet A
 
