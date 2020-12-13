@@ -4,7 +4,7 @@ Kelompok T17
   * Milenia Ulwan Zafira (05311840000020)
   * Bayu Trianayasa      (05311840000038)
   
-#Soal 
+# Soal 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787617462915956756/1607852853171.jpg)
 
@@ -14,12 +14,13 @@ Catatan :
 1. Deadline hari Rabu, 9 Desember 2020 pukul 22.00
 
 2. Soal shift dikerjakan pada Cisco Packet Tracer dan UML menggunakan metode
-perhitungan CLASSLESS yang berbeda.
-Keterangan: Bila di CPT menggunakan VLSM, maka di UML menggunakan CIDR
-atau Sebaliknya
+   perhitungan CLASSLESS yang berbeda.
+   
+   Keterangan: Bila di CPT menggunakan VLSM, maka di UML menggunakan CIDR
+   atau Sebaliknya
 
 3. Jika tidak ada pemberitahuan revisi soal dari asisten, berarti semua soal BERSIFAT BENAR
-dan DAPAT DIKERJAKAN.
+   dan DAPAT DIKERJAKAN.
 
 4. CLOUD diberikan IP TUNTAP.
 
@@ -32,3 +33,157 @@ dan DAPAT DIKERJAKAN.
 8. Pastikan semua UML dapat melakukan ping ke its.ac.id
 
 ```
+
+# Subnetting CIDR  
+
+- Langkah Utama ini adalah Topologi dari CIDR & Menentukan subnet 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787619955625426964/466336.jpg)
+
+- Setelah melakukan Langkah utama, Selanjutnya adalah Kita harus melakukan perhitungan Ip sebagai berikut : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787621551884992522/Pembagian_IP-CIDR.png)
+
+- Langkah Selanjutnya adalah kita harus tes satu persatu apakah benar sudah saling terhubung
+
+- setelah itu Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP   yaitu subnet 19.
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg) 
+
+- Dan hasil Subnetting 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787623896756912128/Pembagian_Subnet11.png)
+
+# Subnetting VLSM 
+- Langkah Utama ini adalah Topologi dari VlSM & Menentukan subnet 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787625349906169866/1607854832811.jpg)
+
+- Setelah melakukan Langkah utama, Selanjutnya adalah Kita harus melakukan perhitungan Ip  
+
+![picture](
+
+- Langkah Selanjutnya adalah kita harus tes satu persatu apakah benar sudah saling terhubung
+
+- setelah itu Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP   yaitu subnet 19.
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg) 
+
+# Interfaces UML
+
+Malang      :  
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632986291044362/iface_malang.jpg)
+
+Mojokerto   :
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632446282924052/iface_mojo.jpg)
+
+Surabaya    : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787633133264699403/ifaces_surabaya.jpg)
+
+Batu        :
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787633757921214492/iface_batu.jpg)
+
+Blitar      : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632333993017354/iface_blitar.jpg)
+
+Kediri      :
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632236295356436/iface_kediri.jpg)
+
+Madiun      : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632261251465266/iface_Madiun.jpg)
+
+Pasuruan    : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632758608494592/iface_pasuruan.jpg)
+
+Probolinggo :
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632708737957928/iface_prob.jpg)
+
+Banyuwangi  : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632633768968242/iface_banyuwangi.jpg)
+
+Bojonegoro  : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632392621391872/iface_bojo.jpg)
+
+Bondowoso   : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632671152668682/iface_bondowoso.jpg)
+
+Jember      :
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632605159751680/iface_jember.jpg)
+
+Jombang     : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787633726876024863/iface_jombang.jpg)
+
+Lumajang    : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632355011461120/iface_lumajang.jpg)
+
+Nganjuk     : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632287826575410/iface_nganjuk.jpg)
+
+Sampang     : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632515564306442/iface_sampang.jpg)
+
+Sidoarjo    :
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632563304923166/iface_ndarjo.jpg)
+
+Tulungagung : 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632309972762654/iface_tulung.jpg)
+
+# Routing 
+
+- Routing di Surabaya 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787641316065804328/route_surabaya.jpg)
+
+- Routing di Blitar
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787641480582791208/route_blitar.jpg)
+
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787641527685218304/route_blitar1.jpg)
+
+- Routing di Kediri 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787641806388330506/route_kediri.jpg)
+
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787641840324837376/route_kediri1.jpg)
+
+- Routing di Madiun
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787642789441044510/route_madiun.jpg)
+
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787642814035918848/route_madiun1.jpg)
+
+- Routing di Pasuruan 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787643295798525962/route_pasuruan.jpg)
+
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787643324986556447/route_pasruruan1.jpg)
+
+- Routing di Problinggo
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787643651387686942/route_prob.jpg)
+
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787643684266049546/route_prob1.jpg)
