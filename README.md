@@ -38,7 +38,7 @@ Catatan :
 
 - Langkah Utama ini adalah Topologi dari CIDR & Menentukan subnet 
 
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787619955625426964/466336.jpg)
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787695385799688214/messageImage_1607871470521.jpg)
 
 - Setelah melakukan Langkah utama, Selanjutnya adalah Kita harus melakukan perhitungan Ip sebagai berikut : 
 
@@ -83,10 +83,6 @@ Catatan :
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669926915473438/1607864695353.jpg)
 
 
-
-- Dan hasil Subnetting 
-
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787623896756912128/Pembagian_Subnet11.png)
 
 
 ## Topologi UML
