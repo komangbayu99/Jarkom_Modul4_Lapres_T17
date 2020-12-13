@@ -163,79 +163,79 @@ xterm -T TULUNGAGUNG -e linux ubd0=TULUNGAGUNG,jarkom umid=TULUNGAGUNG eth0=daem
 
 # Interfaces UML
 
-Malang      :  
+Malang      (server)     :  
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632986291044362/iface_malang.jpg)
 
-Mojokerto   :
+Mojokerto   (server)     :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632446282924052/iface_mojo.jpg)
 
-Surabaya    : 
+Surabaya    (Router)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787633133264699403/ifaces_surabaya.jpg)
 
-Batu        :
+Batu        (Router)     :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787633757921214492/iface_batu.jpg)
 
-Blitar      : 
+Blitar      (Router)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632333993017354/iface_blitar.jpg)
 
-Kediri      :
+Kediri      (Router)     :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632236295356436/iface_kediri.jpg)
 
-Madiun      : 
+Madiun      (Router)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632261251465266/iface_Madiun.jpg)
 
-Pasuruan    : 
+Pasuruan    (Router)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632758608494592/iface_pasuruan.jpg)
 
-Probolinggo :
+Probolinggo (Router)     :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632708737957928/iface_prob.jpg)
 
-Banyuwangi  : 
+Banyuwangi  (Klien)      : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632633768968242/iface_banyuwangi.jpg)
 
-Bojonegoro  : 
+Bojonegoro  (Klien)      : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632392621391872/iface_bojo.jpg)
 
-Bondowoso   : 
+Bondowoso   (Klien)      : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632671152668682/iface_bondowoso.jpg)
 
-Jember      :
+Jember      (Klien)      :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632605159751680/iface_jember.jpg)
 
-Jombang     : 
+Jombang     (Klien)      : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787633726876024863/iface_jombang.jpg)
 
-Lumajang    : 
+Lumajang    (Klien)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632355011461120/iface_lumajang.jpg)
 
-Nganjuk     : 
+Nganjuk     (Klien)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632287826575410/iface_nganjuk.jpg)
 
-Sampang     : 
+Sampang     (Klien)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632515564306442/iface_sampang.jpg)
 
-Sidoarjo    :
+Sidoarjo    (Klien)     :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632563304923166/iface_ndarjo.jpg)
 
-Tulungagung : 
+Tulungagung (Klien)     : 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787632309972762654/iface_tulung.jpg)
 
