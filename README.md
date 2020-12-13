@@ -50,13 +50,41 @@ Catatan :
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg)
 
-![picture](
+- Subnet A
 
-![picture](
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669745351524382/1607864575141.jpg) 
 
-![picture](
 
-![picture](
+- Subnet B 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669773169328148/1607864585405.jpg)
+
+
+- Subnet C 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669826398847036/1607864601323.jpg)
+
+
+- Subnet D
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669796493852672/1607864642399.jpg)
+
+
+- Subnet E 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669862587432980/1607864653635.jpg)
+
+
+- Subnet F 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669900268666920/1607864669120.jpg
+
+
+- Subnet G 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669926915473438/1607864695353.jpg)
+
+
 
 - Dan hasil Subnetting 
 
@@ -251,6 +279,13 @@ Tulungagung :
 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787643684266049546/route_prob1.jpg)
+
+- Routing di Batu 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787667752302673940/route_batu.jpg)
+
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787667956238385182/route_batu1.jpg)
 
 
 
