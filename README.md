@@ -77,7 +77,7 @@ Catatan :
 
 - Subnet F 
 
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669900268666920/1607864669120.jpg
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787669900268666920/1607864669120.jpg)
 
 
 - Subnet G 
