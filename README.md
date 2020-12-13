@@ -48,30 +48,19 @@ Catatan :
 
 - setelah itu Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP   yaitu subnet 19.
 
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg) 
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg)
+
+![picture](
+
+![picture](
+
+![picture](
+
+![picture](
 
 - Dan hasil Subnetting 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787623896756912128/Pembagian_Subnet11.png)
-
-
-# Subnetting VLSM 
-
-- Langkah Utama ini adalah Topologi dari VlSM & Menentukan subnet 
-
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787625349906169866/1607854832811.jpg)
-
-- Setelah melakukan Langkah utama, Selanjutnya adalah Kita harus melakukan perhitungan Ip  
-
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787648012457214012/1607860196117.jpg)
-
-- Langkah Selanjutnya adalah kita harus tes satu persatu apakah benar sudah saling terhubung
-
-- setelah itu Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP   yaitu subnet 19.
-
-![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg) 
-
-
 
 
 ## Topologi UML
@@ -262,3 +251,25 @@ Tulungagung :
 
 
 ![picture](https://cdn.discordapp.com/attachments/691272824765284362/787643684266049546/route_prob1.jpg)
+
+
+
+# Subnetting VLSM 
+
+- Langkah Utama ini adalah Topologi dari VlSM & Menentukan subnet 
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787625349906169866/1607854832811.jpg)
+
+- Setelah melakukan Langkah utama, Selanjutnya adalah Kita harus melakukan perhitungan Ip  
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787648012457214012/1607860196117.jpg)
+
+- Langkah Selanjutnya adalah kita harus tes satu persatu apakah benar sudah saling terhubung
+
+- setelah itu Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP   yaitu subnet 19.
+
+![picture](https://cdn.discordapp.com/attachments/691272824765284362/787620332391366696/messageImage_1607511242491.jpg) 
+
+
+
+
