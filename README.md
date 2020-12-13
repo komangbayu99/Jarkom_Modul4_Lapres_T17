@@ -79,7 +79,7 @@ Catatan :
 # Switch 
 
 ``
-# Switch
+#switch
 
 uml_switch -unix switch1 > /dev/null < /dev/null &
 uml_switch -unix switch2 > /dev/null < /dev/null &
@@ -99,8 +99,10 @@ uml_switch -unix switch25 > /dev/null < /dev/null &
 
 ``
 ## Router
+
 ``
-# Router
+#router
+
 xterm -T SURABAYA -e linux ubd0=SURABAYA,jarkom umid=SURABAYA eth0=tuntap,,,10.151.71.57 eth1=daemon,,,switch1 eth2=daemon,,,switch2 eth3=daemon,,,switch3 eth4=daemon,,,switch13 mem=64M &
 xterm -T PASURUAN -e linux ubd0=PASURUAN,jarkom umid=PASURUAN eth0=daemon,,,switch4 eth1=daemon,,,switch19 eth2=daemon,,,switch2 mem=64M &
 xterm -T PROBOLINGGO -e linux ubd0=PROBOLINGGO,jarkom umid=PROBOLINGGO eth0=daemon,,,switch15 eth1=daemon,,,switch16 eth2=daemon,,,switch4 mem=64M &
@@ -114,7 +116,8 @@ xterm -T BLITAR -e linux ubd0=BLITAR,jarkom umid=BLITAR eth0=daemon,,,switch17 e
 ## Server 
 
 ``
-# Server
+#server
+
 xterm -T MALANG -e linux ubd0=MALANG,jarkom umid=MALANG eth0=daemon,,,switch18 mem=64M &
 xterm -T MOJOKERTO -e linux ubd0=MOJOKERTO,jarkom umid=MOJOKERTO eth0=daemon,,,switch13 mem=64M &
 
@@ -123,7 +126,8 @@ xterm -T MOJOKERTO -e linux ubd0=MOJOKERTO,jarkom umid=MOJOKERTO eth0=daemon,,,s
 ## Klien 
 
 ``
-# Klien 
+#klien 
+
 xterm -T SAMPANG -e linux ubd0=SAMPANG,jarkom umid=SAMPANG eth0=daemon,,,switch1 mem=64M &
 xterm -T SIDOARJO -e linux ubd0=SIDOARJO,jarkom umid=SIDOARJO eth0=daemon,,,switch19 mem=64M &
 xterm -T BANYUWANGI -e linux ubd0=BANYUWANGI,jarkom umid=BANYUWANGI eth0=daemon,,,switch16 mem=64M &
