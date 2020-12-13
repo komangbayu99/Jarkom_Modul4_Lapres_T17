@@ -78,7 +78,8 @@ Catatan :
 
 # Switch 
 
-``
+```
+
 #switch
 
 uml_switch -unix switch1 > /dev/null < /dev/null &
@@ -97,10 +98,11 @@ uml_switch -unix switch21 > /dev/null < /dev/null &
 uml_switch -unix switch22 > /dev/null < /dev/null &
 uml_switch -unix switch25 > /dev/null < /dev/null &
 
-``
+```
 ## Router
 
-``
+```
+
 #router
 
 xterm -T SURABAYA -e linux ubd0=SURABAYA,jarkom umid=SURABAYA eth0=tuntap,,,10.151.71.57 eth1=daemon,,,switch1 eth2=daemon,,,switch2 eth3=daemon,,,switch3 eth4=daemon,,,switch13 mem=64M &
@@ -111,21 +113,21 @@ xterm -T MADIUN -e linux ubd0=MADIUN,jarkom umid=MADIUN eth0=daemon,,,switch22 e
 xterm -T KEDIRI -e linux ubd0=KEDIRI,jarkom umid=KEDIRI eth0=daemon,,,switch5 eth1=daemon,,,switch17 eth2=daemon,,,switch18 mem=64M &
 xterm -T BLITAR -e linux ubd0=BLITAR,jarkom umid=BLITAR eth0=daemon,,,switch17 eth1=daemon,,,switch20 mem=64M &
 
-``
+```
 
 ## Server 
 
-``
+```
 #server
 
 xterm -T MALANG -e linux ubd0=MALANG,jarkom umid=MALANG eth0=daemon,,,switch18 mem=64M &
 xterm -T MOJOKERTO -e linux ubd0=MOJOKERTO,jarkom umid=MOJOKERTO eth0=daemon,,,switch13 mem=64M &
 
-``
+```
 
 ## Klien 
 
-``
+```
 #klien 
 
 xterm -T SAMPANG -e linux ubd0=SAMPANG,jarkom umid=SAMPANG eth0=daemon,,,switch1 mem=64M &
@@ -139,7 +141,7 @@ xterm -T NGANJUK -e linux ubd0=NGANJUK,jarkom umid=NGANJUK eth0=daemon,,,switch2
 xterm -T LUMAJANG -e linux ubd0=LUMAJANG,jarkom umid=LUMAJANG eth0=daemon,,,switch17 mem=64M &
 xterm -T TULUNGAGUNG -e linux ubd0=TULUNGAGUNG,jarkom umid=TULUNGAGUNG eth0=daemon,,,switch20 mem=64M &
 
-``
+```
 
 
 # Interfaces UML
